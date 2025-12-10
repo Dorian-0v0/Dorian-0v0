@@ -1,6 +1,15 @@
 <div align="center">
   
 # 关于我是谁？
+### 🌟 **之前的技术博客与社区（累计有10000+访问量）**
+<div>
+  <a href="https://juejin.cn/user/1634319052062618">
+    <img src="https://img.shields.io/badge/掘金-技术社区-1E80FF?style=for-the-badge" />
+  </a>
+  <a href="https://blog.csdn.net/2301_80412275">
+    <img src="https://img.shields.io/badge/CSDN-专业技术博客-FF4F5B?style=for-the-badge" />
+  </a>
+</div>
   
 ## 🗺️ GIS Developer | 空间数据可视化专家
 
@@ -62,15 +71,7 @@
 
 ## 📚 知识沉淀
 
-### 🌟 **技术博客与社区**
-<div>
-  <a href="https://juejin.cn/user/1634319052062618">
-    <img src="https://img.shields.io/badge/掘金-技术社区-1E80FF?style=for-the-badge" />
-  </a>
-  <a href="https://blog.csdn.net/2301_80412275">
-    <img src="https://img.shields.io/badge/CSDN-专业技术博客-FF4F5B?style=for-the-badge" />
-  </a>
-</div>
+
 
 ### 💻 **代码仓库**
 <div>
