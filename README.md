@@ -4,9 +4,11 @@
 ### 🌟 **之前的技术博客与社区（累计有10000+访问量）**
 <div>
   <a href="https://juejin.cn/user/1634319052062618">
+    https://juejin.cn/user/1634319052062618
     <img src="https://img.shields.io/badge/掘金-技术社区-1E80FF?style=for-the-badge" />
   </a>
   <a href="https://blog.csdn.net/2301_80412275">
+    https://blog.csdn.net/2301_80412275
     <img src="https://img.shields.io/badge/CSDN-专业技术博客-FF4F5B?style=for-the-badge" />
   </a>
 </div>
