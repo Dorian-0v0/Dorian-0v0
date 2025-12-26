@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/SSR-Next%2FNuxt-000000?style=flat-square&logo=nuxt.js" />
 </div>
 
+
 ### 🛠️ 后端生态
 <div>
   <img src="https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=flat-square&logo=spring" />
@@ -47,7 +48,7 @@
   <img src="https://img.shields.io/badge/Gin-Go_Web_Framework-00ADD8?style=flat-square&logo=gin" />
 </div>
 
-### 🗺️ GIS 技术全家桶
+### 🗺️ GIS 相关
 <div>
   <img src="https://img.shields.io/badge/ArcGIS-全家桶-2C7AC3?style=flat-square&logo=arcgis" />
   <img src="https://img.shields.io/badge/Cesium-3D_Globe-6CAD49?style=flat-square&logo=cesium" />
