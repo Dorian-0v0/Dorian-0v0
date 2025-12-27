@@ -48,18 +48,6 @@
   <img src="https://img.shields.io/badge/Gin-Go_Web_Framework-00ADD8?style=flat-square&logo=gin" />
 </div>
 
-### 🗺️ GIS 相关
-<div>
-  <img src="https://img.shields.io/badge/ArcGIS-全家桶-2C7AC3?style=flat-square&logo=arcgis" />
-  <img src="https://img.shields.io/badge/Cesium-3D_Globe-6CAD49?style=flat-square&logo=cesium" />
-  <img src="https://img.shields.io/badge/Mapbox-GL_JS-000000?style=flat-square&logo=mapbox" />
-  <img src="https://img.shields.io/badge/Leaflet-Open_Source-199900?style=flat-square&logo=leaflet" />
-  <img src="https://img.shields.io/badge/OpenLayers-Web_Mapping-1F6B75?style=flat-square&logo=openlayers" />
-  <img src="https://img.shields.io/badge/PostGIS-空间数据库-336791?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/GeoServer-WMS%2FWFS-6A9C4F?style=flat-square&logo=osgeo" />
-  <img src="https://img.shields.io/badge/GDAL-地理数据转换-3EAA47?style=flat-square&logo=gdal" />
-  <img src="https://img.shields.io/badge/GeoTools-Java_GIS-6A9C4F?style=flat-square&logo=osgeo" />
-</div>
 
 ### 🗄️ 数据库 & 中间件
 <div>
