@@ -2,7 +2,7 @@
 
 # 👋 关于我是谁？
 
-> **GIS 开发者|空间数据可视化专家|全栈探索者**
+> ** 开发者|空间数据可视化专家|全栈探索者**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=1200&pause=800&color=00FFFF&background=0F0F0F&center=true&vCenter=true&width=1200&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+a+GIS+Developer;Welcome+to+my+profile%F0%9F%8C%8D" alt="Typing SVG" />
 
@@ -63,8 +63,6 @@
 
 > 🏢 **某知名 GIS 公司** — 空间大数据产品开发实习生  
 > 🔧 参与企业级空间大数据平台前端模块开发，聚焦 **GIS 可视化与交互体验**  
-> 🎯 具备扎实的 **全栈开发能力**，主攻 **WebGIS 应用架构与性能优化**
-
 
 ## 📚 知识沉淀与开源贡献
 
