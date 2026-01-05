@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=1200&pause=800&color=00FFFF&background=0F0F0F&center=true&vCenter=true&width=1200&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+a+GIS+Developer;Welcome+to+my+profile%F0%9F%8C%8D" alt="Typing SVG" />
 ---
-### 🌟 **技术博客 & 社区足迹（累计 10,000+ 访问）**
+ 🌟 **技术博客 & 社区足迹（累计 10,000+ 访问）**
 <div>
   <a href="https://juejin.cn/user/1634319052062618" target="_blank">
     <img src="https://img.shields.io/badge/掘金-技术社区-1E80FF?style=for-the-badge&logo=juejin" />
